@@ -1,5 +1,7 @@
 # routes.ts
 
+[![npm version](https://badge.fury.io/js/routes.ts.svg)](https://badge.fury.io/js/routes.ts)
+
 Zero-dependency, type-safe route management for TypeScript. Define your routes once, get type-checked URL generation, pattern matching, and route tree utilities for free.
 
 Works with **any framework** — Next.js, Express, React Router, SvelteKit, or plain TypeScript.
