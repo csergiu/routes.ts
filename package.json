@@ -1,8 +1,9 @@
 {
   "name": "routes.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-dependency, type-safe route management. Define routes once with :param syntax, get fully typed URL generation, matching, and route tree flattening for free.",
   "author": "",
+  "repository": "https://github.com/csergiu/routes.ts",
   "license": "MIT",
   "keywords": [
     "routes",
